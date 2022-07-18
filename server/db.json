@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Dior J'dore",
+        "price": 100,
+        "fragrance": "floral",
+        "qty": 10,
+        "imageURL": "https://www.sephora.com/productimages/product/p6430-av-11-zoom.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Versace",
+        "price": 70,
+        "fragrance": "citrus",
+        "qty": 15,
+        "imageURL": "https://cdn.shopify.com/s/files/1/0421/3794/4228/products/Versace-Perfume-Crystal-Noir-Eau-de-Toilette-90ml-Scent_1200x1200.jpg?v=1614336703"
+    },
+    {
+        "id": 3,
+        "title": "Prada candy night",
+        "price": 125,
+        "fragrance": "sweet",
+        "qty": 20,
+        "imageURL": "https://i.pinimg.com/564x/d0/a8/df/d0a8df0f4031ef87537be9c012f53b9c.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Chanal No.5",
+        "price": 150,
+        "fragrance": "floral",
+        "qty": 10,
+        "imageURL": "https://www.chanel.com/us/img/t_one/q_auto:good,fl_lossy,dpr_1.2,f_auto/w_960/prd-emea/sys-master/content/he0/h3f/8826501464094-CCM-INTENSE-pdp-ed-push-patchouli.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Burberry",
+        "price": 120,
+        "fragrance": "floral",
+        "qty": 5,
+        "imageURL": "http://bizweb.dktcdn.net/thumb/grande/100/145/194/products/20476396-1864473613880262-3802588406160900155-n.jpg?v=1512015789710"
+    },
+    {
+        "id": 6,
+        "title": "YSL",
+        "price": 110,
+        "fragrance": "floral",
+        "qty": 50,
+        "imageURL":"https://static.voguescandinavia.com/YSL_Libre_31f232aed6/YSL_Libre_31f232aed6.jpg"
+    }
+]

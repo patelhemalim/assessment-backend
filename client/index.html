@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Back End Assessment</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="container">
+
+    
+    <button id="complimentButton" class="button-class1">Get a compliment</button>
+    <button id="fortunecookieButton" class="button-class1">Crack open your fortunecookie</button>
+    <div class="line1">
+      <header>
+        <h1> Fortune Perfume Bar</h1>
+      </header>
+    </div>
+
+  
+
+
+<main>
+  <form>
+    <input type='text' id="title" placeholder="Product Title"/>
+    <input type='text' id="price" placeholder="Price"/>
+    <input type='text' id="image" placeholder="Product image URL"/>
+    <input type='text' id="qty" placeholder="Quantity"/>
+    <select class="fragrance" id="fragrance" placeholder="Fragrance">
+      <option value="">Select Fragrance …</option>
+      <option value="sweet">Sweet</option>
+      <option value="floral">Floral</option>
+      <option value="citrus">Citrus</option>
+    </select>
+    <button class="button-class">Add Product</button>
+  </form>
+
+  <section id="perfumes-container"></section>
+
+</main>
+
+
+
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="main.js"></script>
+
+</body>
+
+</html>
